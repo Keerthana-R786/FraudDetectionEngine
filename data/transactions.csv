@@ -1,0 +1,11 @@
+account_id,merchant_id,device_id,amount,transaction_type,status
+2001,3001,4001,2500,Payment,Success
+2002,3002,4002,75000,Payment,Success
+2001,3003,4003,1500,Payment,Failed
+2001,3001,4001,1200,Payment,Failed
+2001,3002,4002,900,Payment,Failed
+2003,3004,4004,4500,Transfer,Success
+2004,3005,4005,800,Withdrawal,Success
+2002,3001,4001,95000,Payment,Success
+2001,3004,4003,500,Payment,Success
+2003,3002,4002,25000,Payment,Success

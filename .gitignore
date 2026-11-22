@@ -1,0 +1,10 @@
+build/
+.vscode/
+vcpkg/
+*.exe
+*.obj
+*.o
+*.dll
+*.lib
+*.pdb
+*.log
